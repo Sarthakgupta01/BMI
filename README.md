@@ -17,9 +17,6 @@ This is a simple BMI Calculator application that allows users to calculate their
 - **JavaScript**: Handling BMI calculation, form validation, and result display.
 - **GitHub Pages (Optional)**: For deployment.
 
-## Project Setup
-
-To run this project locally on your machine, follow the steps below:
 
 ### Prerequisites
 
